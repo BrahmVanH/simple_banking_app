@@ -1,3 +1,5 @@
+package main;
+
 import java.util.Scanner;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
